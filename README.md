@@ -85,6 +85,6 @@ dateFormat(new Date(), 'yyyy-mm-dd HH:MM')
 * see the exercise base `program12.js` is in pseudocode - try to code it in JS!
   * it's gonna be similar to `program11.js`
 
-### Exercise 12
+### Exercise 13
 
 * again, we have some pseudocode for you to write !
